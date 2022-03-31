@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802200665041",
+    "project_id": "invite-app-7d3a6",
+    "storage_bucket": "invite-app-7d3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802200665041:android:1160d32a9d4a057cae7ef0",
+        "android_client_info": {
+          "package_name": "com.example.invite_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802200665041-vgmsqasqt52mu0add9l7d3ja9hro4v8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV40nsSdFADkhsIA8NNk3taoH26OZ3jic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802200665041-vgmsqasqt52mu0add9l7d3ja9hro4v8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
